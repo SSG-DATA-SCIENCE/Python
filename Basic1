@@ -1,0 +1,23 @@
+#Print 
+print("Hello Everyone")
+print("Sarabjit Singh Gambhir Here")
+print("Pursuing MBA in Business Analytics from IILM University")
+print("5+6")#print as it is
+print("5"+"6")#Treated as String
+print(5+6)#Treated as Number
+a=2
+b=3
+print(a+b)
+print(a*b)
+#User Input> by default it takes string 
+input("Please Enter Your Name:")
+a=int(input("Enter Your Age: "))
+#Single line Comment-we use "#" for commenting single line
+#sarabjit
+#IILM
+#Multiline Comment-we use """ or ''' for multiline Comment
+"""
+sarabjit
+singh
+here
+"""
